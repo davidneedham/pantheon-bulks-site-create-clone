@@ -9,7 +9,7 @@ The goal is to allow teachers to spin-up sites for students quickly and easily.
 
 ## Requirements
 * [Terminus](https://github.com/pantheon-systems/terminus)
-* [Terminus site clone plugin](https://github.com/ataylorme/terminus-site-clone)
+* [Terminus site clone plugin](https://github.com/pantheon-systems/terminus-site-clone-plugin)
 * [git command line](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ## Usage
